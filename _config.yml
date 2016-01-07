@@ -1,0 +1,28 @@
+name: De Tussenruimte
+favicon: null
+layout_spectrum: 0.966564666479826
+typography_spectrum: 0.871561317704618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.13030480057932436
+  lightness: 0.1198920146562159
+  saturation: 0.7553484700620174
+  rhythmicContrast: 0.37177211279049516
+purpose: []
