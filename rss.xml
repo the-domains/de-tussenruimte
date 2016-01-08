@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[De Tussenruimte]]></title>
+        <description><![CDATA[De Tussenruimte]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jan 2016 10:12:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Betekenisgeving]]></title>
+            <description><![CDATA[<article><h1>Betekenisgeving</h1><p>Heb je er ook wel eens bij stil gestaan dat iemand bij dezelfde gebeurtenis een andere reactie had dan jij? Of het bij dezelfde werkgever minder leuk vindt dan jij? Als je erop gaat letten dan zal je merken dat dit vaak zo is. Er is veel hetzelfde tussen ons mensen en toch zijn we ook zo verschillend.Wij mensen hebben een binnenwereld waarmee wij ons in de buitenwereld begeven. Onze binnenwereld hebben wij vanaf onze geboorte gevormd onder invloed van onze opvoeding, cultuur, religie en talloze andere factoren. Wij hebben naast onze ouders allemaal wel voorbeelden van mensen en gebeurtenissen die van betekenis zijn (geweest) in ons leven. Ieder mens is vanuit dit perspectief uniek.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/672668da9ff751867c029a39fe00a1ac3004b5b3.jpg"></article>]]></description>
+            <link>undefinedbetekenisgeving/index.html</link>
+            <guid isPermaLink="false">acaecb00-af84-4f3c-9a5c-75cf32f3f5ed</guid>
+            <pubDate>Fri, 08 Jan 2016 10:11:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
